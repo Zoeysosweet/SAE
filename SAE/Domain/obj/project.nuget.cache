@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6UyLCS7CXl3eshOdfiV4B95FF6Svzg3VFT1Cn2+br2utxP9I5vDWHd/YFz+q6JSR4i1wOXCK2RP0T+YJswch5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\en casa\\Desktop\\SAE\\SAE\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\en casa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\en casa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
